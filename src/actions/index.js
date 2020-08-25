@@ -3,4 +3,4 @@ export default function selectCity(city) {
     type: 'CITY_SELECTED',
     payload: city
   };
-}// TODO: add and export your own actions
+}
